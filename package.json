@@ -1,0 +1,25 @@
+{
+  "name": "bus-setu",
+  "version": "1.0.0",
+  "description": "Bus Setu (बस सेतु) — Real-time live bus tracking & route finder for Haryana Bus Service (हरियाणा बस सेवा)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0",
+    "socket.io": "^4.7.5"
+  },
+  "keywords": [
+    "bus-setu",
+    "haryana-bus-service",
+    "haryana-roadways",
+    "bus-tracker",
+    "gps",
+    "realtime",
+    "chandigarh",
+    "delhi"
+  ],
+  "license": "MIT"
+}
